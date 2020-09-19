@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697016039085",
+    "firebase_url": "https://movieguidefeb27.firebaseio.com",
+    "project_id": "movieguidefeb27",
+    "storage_bucket": "movieguidefeb27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697016039085:android:11f662a52a9ec5f6997824",
+        "android_client_info": {
+          "package_name": "com.esoxjem.moviefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697016039085-v80q1005gthuk8i2fft8fbl5v8e6gk1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esoxjem.moviefinder",
+            "certificate_hash": "d3bd1d014be7c6627c7d6b6f76f2ddb12cb7e274"
+          }
+        },
+        {
+          "client_id": "697016039085-apob0829eol68pnmnokqec8hq58sd8pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXMEx1nUfY7mkBwDfoi5uplFj9pYX_OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697016039085-apob0829eol68pnmnokqec8hq58sd8pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

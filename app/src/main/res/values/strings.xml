@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Finder Pro</string>
+    <string name="action_filter">Filter</string>
+    <string name="loading_movies">Loading Movies</string>
+    <string name="sort_by">Sort By</string>
+    <string name="movie_guide">Movie Finder</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="summary">Summary</string>
+    <string name="release_date">Release Date: %s</string>
+    <string name="rating">%s/10</string>
+    <string name="favorites">Favorites</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="action_search">Search</string>
+
+    <!--
+    Interchanging below values to show Newest movies on the first page and to adjust the code
+    and also changed the SortingDialogFragment.java
+    -->
+    <string name="newest">Most Popular</string>
+    <string name="most_popular">Newest</string>
+
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation drawer</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
